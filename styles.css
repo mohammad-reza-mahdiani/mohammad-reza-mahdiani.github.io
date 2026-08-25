@@ -115,6 +115,15 @@ footer {
   text-decoration: underline;
 }
 
+/* Recognition Section */
+#authority ul li {
+  background: white;
+  border-left: 4px solid #007bff;
+  border-radius: 4px;
+  padding: 10px 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
+}
+
 /* Media Queries for Responsiveness */
 @media (max-width: 768px) {
   nav ul {
